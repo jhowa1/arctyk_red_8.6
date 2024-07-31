@@ -1,0 +1,17 @@
+os_db_locations:
+  work_folder: c:/temp
+  log_folder: C:/TEMP
+
+log_objects:
+  log_file_name: red_log.log
+  log_level: DEBUG
+
+database_objects:
+  put_mode: TABLE
+  stage_name: "@INTAKE"
+  stage_folder: stage_folder
+  stage_schema: DB
+  meta_dsn: WSH
+
+license:
+  license_key: "eyJ0eXAiOiJKV1QiLCJhbGciOiJFZERTQSJ9.eyJsaWNlbnNlZF90byI6IldlbGxzcHJpbmciLCJ2YWxpZF91bnRpbCI6bnVsbH0.mwcx1cUDguXgVfTyrGQyOJVzudjWa-YD9fVNYq8rI_J6_2KLe39U3OITMlJb7JoL_C3hrOWyeWR46mZRyE4JAQ"
